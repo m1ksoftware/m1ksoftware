@@ -2,7 +2,7 @@
 
 I am a software engineer, full-stack developer, geek and Agile enthusiast. I love coding and problem solving. I started coding when I was very young just for fun, by creating Basic and Pascal programs. It's been many years since the day I wrote my first line of code and some white hairs started appearing in my beard. Over the years, I had the opportunity to study and play with many systems, different programming languages and frameworks. Currenctly, I am involved in designing and developing software solutions, building applications for Web, Mobile and Desktop. 
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
