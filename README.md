@@ -22,6 +22,14 @@ I am a software engineer, full-stack developer, geek and Agile enthusiast. I lov
 
 <br/>
 
+### Some other things I like to do
+
+- ⛰️ trekking and hiking
+- 🌳 go outside with my lovely wife and sons
+- 📷 take photos
+- 🎮 play videogames
+- 🎲 board games
+
 ### Contacts
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
