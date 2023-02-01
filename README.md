@@ -20,6 +20,15 @@ I am a software engineer, full-stack developer, geek and Agile enthusiast. I lov
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
+<br/>
+
+### Contacts
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+[twitter]: https://twitter.com/miknucci
+[linkedin]: https://www.linkedin.com/in/michelenucci/
+
 <!--
 **m1ksoftware/m1ksoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
