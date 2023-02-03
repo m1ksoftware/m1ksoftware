@@ -25,7 +25,7 @@ I am a software engineer, full-stack developer, geek and Agile enthusiast. I lov
 ### Some other things I like to do
 
 - ⛰️ trekking and hiking
-- 🌳 go outside with my lovely wife and sons
+- 🌳 go outside with my lovely wife and children
 - 📷 take photos
 - 🎮 play videogames
 - 🎲 board games
