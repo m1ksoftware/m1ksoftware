@@ -33,7 +33,9 @@ I am a software engineer, full-stack developer, geek and Agile enthusiast. I lov
 ### Contacts
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+
 
 [twitter]: https://twitter.com/miknucci
 [linkedin]: https://www.linkedin.com/in/michelenucci/
-[instagram]:
+[instagram]: https://www.instagram.com/m1k/
