@@ -28,7 +28,7 @@ I am a software engineer, full-stack developer, geek and Agile enthusiast. I lov
 - 🌳 go outside with my lovely wife and children
 - 📷 take photos
 - 🎮 play videogames
-- 🎲 play board games
+- 🎲 play board games and
 
 ### Contacts
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
