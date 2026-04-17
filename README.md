@@ -1,6 +1,6 @@
 ### Hi there, I'm Michele 👋
 
-I am a software engineer, full-stack developer, geek and Agile enthusiast. I love coding and problem solving. I started coding when I was very young just for fun, by creating Basic and Pascal programs. It's been many years since the day I wrote my first line of code and some white hairs started appearing in my beard. Over the years, I had the opportunity to study and play with many systems, different programming languages and frameworks. Currently, I am involved in designing and developing software solutions, building applications for Web, Mobile and Desktop.
+I am a software engineer, full-stack developer, geek and Agile enthusiast. I love coding and problem solving. I started coding at a very young age, just for fun, creating programs in BASIC and Pascal. It’s been many years since I wrote my first line of code, and a few white hairs have started appearing in my beard. Over the years, I’ve had the opportunity to study and work with many systems, different programming languages and frameworks. Currently, I am involved in designing and developing software solutions, building applications for web, mobile and desktop.
 
 ### Languages and Tools
 
