@@ -4,21 +4,24 @@ I am a software engineer, full-stack developer, geek and Agile enthusiast. I lov
 
 ### Languages and Tools
 
+<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" />
 <img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Java" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />                                 
+<img align="left" alt="Java" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
+<img align="left" alt="Kotlin" width="26" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="Spring" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Ruby" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Dart" width="26" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="26" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Rust" width="26" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" />
+<img align="left" alt="PHP" width="26" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" />
+<img align="left" alt="Angular" width="26" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" />
 <img align="left" alt="TypeScript" width="26" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular" width="26" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br/>
 
